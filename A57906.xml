@@ -1,0 +1,492 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remedie against dissention, or, A help to settle mens mindes in these unsetled times, and to make up the rents made, and likely to be made through the late lamentable increase of opinions and practices as it was delivered in a sermon of Rom. 16,17 / by I.R. ...</title>
+            <author>I. R., Minister of the Gospell.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57906</idno>
+            <idno type="STC">Wing R22A</idno>
+            <idno type="STC">ESTC R13056</idno>
+            <idno type="EEBO-CITATION">13585653</idno>
+            <idno type="OCLC">ocm 13585653</idno>
+            <idno type="VID">100529</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100529)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 798:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remedie against dissention, or, A help to settle mens mindes in these unsetled times, and to make up the rents made, and likely to be made through the late lamentable increase of opinions and practices as it was delivered in a sermon of Rom. 16,17 / by I.R. ...</title>
+                  <author>I. R., Minister of the Gospell.</author>
+               </titleStmt>
+               <extent>[2], 26 [i.e. 22] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Stafford and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 9-12 omitted in pagination.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans XVI, 17 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100529:1" rendition="simple:additions"/>
+            <p>A REMEDIE againſt Diſſention: OR, A help to ſettle mens mindes in theſe unſetled times, and to make up the Rents, made, and likely to be made through the late lamentable increaſe of Opinions and PRACTISES.</p>
+            <p>As it was delivered in a Sermon on <hi>Rom.</hi> 16, 17. By <hi>I. R.</hi> Miniſter of the Goſpell.</p>
+            <q>
+               <bibl>Cant. 3.5.</bibl>
+               <p>I charge you, O ye daughters of Ieruſalem, by the Roes, &amp; by the Hinds of the field, that ye ſtir not up nor awake my Love, till ſhe pleaſe.</p>
+            </q>
+            <q>
+               <bibl>1 Cor. 14.33.</bibl>
+               <p>For God is not the Author of confuſion, but of peace, as in all Churches of the Saints.</p>
+            </q>
+            <p>
+               <bibl>Auguſtin in Iohan. tract. 104.</bibl>
+            </p>
+            <p>—ut in illo pacem haberent, propter quod totum agitur quod Chriſti<g ref="char:EOLhyphen"/>ani ſumus. Haec enim pax finem temporis non habebit, ſed omnis piae<g ref="char:EOLhyphen"/>noſtrae intentionis actionis què, finis ipſa erit.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Stafford,</hi> and are to be ſold at his Shop in <hi>Chancery-lane</hi> over againſt the Rolls, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:100529:2"/>
+            <pb facs="tcp:100529:2"/>
+            <epigraph>
+               <q>
+                  <bibl>Rom. 16.17.</bibl>
+                  <p>I beſeech you brethren, marke them who cauſe diviſions and offences, contrary to the doctrine ye have learned, and avoid them.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">R</seg>Ight Honourable,</hi>
+               <note place="margin">Exod. 28.1.</note> and the reſt beloved in <hi>Chriſt Ieſus,</hi> your knowledge of the rela<g ref="char:EOLhyphen"/>tion betweene <hi>Moſes</hi> and <hi>Aaron,</hi> magi<g ref="char:EOLhyphen"/>ſtrate and miniſter, ſtate and church, re<g ref="char:EOLhyphen"/>ligion and policy, diſchargeth all Apo<g ref="char:EOLhyphen"/>logie, for choyce of this Text, which like the worlds great eye upon the <hi>hemiſphere,</hi> limited to no region, ci<g ref="char:EOLhyphen"/>ty or perſon, looks upon all duties humane and di<g ref="char:EOLhyphen"/>vine, therefore <hi>I beſeech you—</hi>
+            </p>
+            <p>The ſumme is an exhortation to vigilant conſtan<g ref="char:EOLhyphen"/>cy: Church and ſtate are as a beſieged city: ſome aſſaile <hi>aperto Marte,</hi> they are more eaſily diſcovered, ſome <hi>inſidiis,</hi> more miſchievous are they who ſting the boſome, which are ſhut up in the infected veines: therefore <hi>I beſeech you brethren marke them—</hi>
+            </p>
+            <p>He had carefully preſcribed, now he prohibiteth: the moſt divine precepts cannot profit us,<note place="margin">quid enim pro<g ref="char:EOLhyphen"/>deſt antidotum cui ſuperfundi<g ref="char:EOLhyphen"/>tur venenum? Tertul.</note> if ſome contrary evill corrupt us. He had by name deſcri<g ref="char:EOLhyphen"/>bed thoſe whom they ſhould follow: he giveth a character of falſe brethren without name ('tis the candor of holy writ, liberall in honouring the Saints memories, to forbeare unneceſſary branding ſinners) 'tis the vice, not the perſon which is dangerous: there<g ref="char:EOLhyphen"/>fore <hi>I beſeech you brethren, marke them who cauſe divi<g ref="char:EOLhyphen"/>ſions and offences, contrary to the doctrine ye have learned, and avoide them.</hi>
+            </p>
+            <pb n="2" facs="tcp:100529:3"/>
+            <list>
+               <label>The parts are the</label>
+               <item>
+                  <list>
+                     <item>1 Forme which is horta<g ref="char:EOLhyphen"/>tory: wherein note, the
+<list>
+                           <item>1 Obteſtation, <hi>I beſeech you.</hi>
+                           </item>
+                           <item>2 Compellation. <hi>Brethren.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>2 Matter, which is anadvertiſementto a grand inqueſt, <hi>marke them,</hi> in W<hi rend="sup">ch</hi> obſerve, the
+<list>
+                           <item>1 Duty enioyned
+<list>
+                                 <item>1 <hi>Marke them.</hi>
+                                 </item>
+                                 <item>2 <hi>Avoid them.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>2 Delinquents concerning whom the Apoſtle uſeth this vehement entreatie, <hi>authors of diſſention which cauſe diviſions, and offences.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>3 Marke by which they may be knowne, or the offence enquired after, <hi>diviſions and offences:</hi> with the ſecret danger thereof, in that they are <hi>beſide, and neere, but con<g ref="char:EOLhyphen"/>trary to the doctrine.</hi>
+                     </item>
+                     <item>4 Aggravation of the offence, from the
+<list>
+                           <item>1 Rule againſt which the tranſ<g ref="char:EOLhyphen"/>greſſion is: the <hi>doctrine.</hi>
+                           </item>
+                           <item>2 Example which themſelves have given, <hi>which yee have lear<g ref="char:EOLhyphen"/>ned:</hi> it were deſperate levity to deſert it now.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>I beſeech you.</hi>
+               <note place="margin">
+                  <hi>1</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. obſecro. Auguſt. in Rom. ero-Ambroſ. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Occum in Loc.</note> By a milde, and humble entreaty, he putteth on the perſon of a ſuppliant: not for the ad<g ref="char:EOLhyphen"/>vance of his owne profit, but theirs.</p>
+            <p>
+               <hi>That which the miniſters intreat you, is your owne good, peace and ſalvation. If thou be wiſe, thou ſhalt be wiſe for thy ſelfe</hi>—Prov. 9.12. ſo. Rom. 12.1. <hi>I</hi> be<g ref="char:EOLhyphen"/>ſeech you brethren by the mercies of God—to what end? <hi>that ye may prove what is the good will of God.</hi> ſo Phil. 2.1. <hi>if there be any conſolation in Chriſt, if any comfort of loue if any fellowſhip of the ſpirit—to what end? that nothing be done through contention, thats your owne good.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> Her's no <hi>vobis coniunctim et diviſim committimus et fir miter iniungendo mandamus</hi>—not that he had not power of <hi>mandats (we are ambaſſadors for Chriſt:</hi>
+               <note place="margin">2 Cor. 5.20.</note> 
+               <hi>as though God did beſeech yeu through us, we pray you in
+<pb n="3" facs="tcp:100529:3" rendition="simple:additions"/>Chriſts ſtead that ye be reconciled unto God,</hi> that's your owne good) but becauſe lenity can doe more then rigour, a mild hand maketh better impreſſion then then a rigid and imperious injunction can: ſanctity cannot be forced, neither will opinion: if God ſhould compell, he left no place for ſinne or ſancti<g ref="char:EOLhyphen"/>mony, which are onely in actions voluntary: the De<g ref="char:EOLhyphen"/>vill cannot compell to ſinne, neither will God to obedience: where neceſſity enforceth, ther's no ſinne; where compulſion extorteth obedience, no ſanctity. No man can be holy, or wicked, except he will; the will muſt have a part in either, to denomi<g ref="char:EOLhyphen"/>nate the good or evill. The ſoftned wax beſt takes the impreſſion: therefore the Apoſtle placed this maine exhortation amongſt his ſalutes, which gave that temper to their affections: tis a great matter to have a good opinion of the ſpeakers love and inte<g ref="char:EOLhyphen"/>grity: therefore meekeneſſe and lenity, is the onely way to prevent, and retrench diſcords, there is place for rigour, thats when lenity is impiouſly contemned:<note place="margin">Rom. 13.</note> there are that carry not the ſword in vaine: but our part is intreaty. <hi>Paſtores facti ſumus, non percuſſores:</hi>
+               <note place="margin">Gregor. Epiſt.</note> our commiſſion is, that which was given Peter, Ioh. 21.15.16. <hi>Paſce oves meas,</hi> not that Act. 10.13. <hi>kill and eate.</hi> When things (eſpecially <hi>adiaphorous</hi>) are too rigidly preſſed, it woundeth the infirme, and ſcandaleth the ſtrong. <hi>Lactantius</hi> ſaid it well in gene<g ref="char:EOLhyphen"/>rall,<note place="margin">Lib. <hi>5.</hi>
+               </note> religion cannot be compelled, <hi>verbis potius quam verberibus res agenda eſt.</hi> when <hi>Peter</hi> ſmote <hi>Malchus</hi> in <hi>Chriſts</hi> defence (<hi>Malchus</hi> one of them who came to lay impure and violent hands on <hi>Chriſt</hi>) he not only prohibited <hi>Peters</hi> violence, but healed <hi>Malchus</hi> eare, When the Holyghoſt deſcended on <hi>Chriſt,</hi>
+               <note place="margin">Cyprian.</note> 'twas not in the forme of an imperious <hi>eagle</hi> or bird of prey,
+<pb n="4" facs="tcp:100529:4"/>but in the likeneſſe of an harmeleſſe <hi>dove.</hi> Violence and religion are unconſiſtent: not that the corrup<g ref="char:EOLhyphen"/>ters thereof, and ſtate-threatning ſchiſmatiks may not be reſtrained, or puniſhed: but becauſe our ſword is only ſpirituall: coercive power by ſmiting uncurable parts, appertaines to the civill <hi>Magiſtrate:</hi> therefore where we have not power to prevent an imminent danger, we pray your helpe. Therefore <hi>we beſeech you brethren, marke them who cauſe diviſions and offences, contrary to the doctrine ye have learned, and avoide them.</hi>
+            </p>
+            <p>Our ſecond part is the compellation,<note place="margin">
+                  <hi>2</hi> Brethren.</note> 
+               <hi>Brethren</hi>—it hath a ſweet violence to perſwade, among the ſonnes of God, <hi>The name of brotherhood is an argument of unity,</hi> God intended it ſo, who made us all of one parent, all brethren, &amp; adopted us all in one <hi>Chriſt,</hi> in whom we are all members of one body. Brethren to dwell together in unity; <hi>ecce quam bonu<g ref="char:cmbAbbrStroke">̄</g>, &amp; qua<g ref="char:cmbAbbrStroke">̄</g> jucun<g ref="char:EOLhyphen"/>dum.</hi> 'Tis like the <hi>precious ointment upon the</hi>
+               <note n="a" place="margin">à capite venit unguentum, ca<g ref="char:EOLhyphen"/>put naſtrum Chriſtus eſt, Aug. in Pſalm.</note> 
+               <hi>head</hi> (the love of<note n="b" place="margin">cuius unctio omuem eccleſians penetr aret. Proſp. <hi>Rom. 13. Matth. 5.</hi>
+               </note> Chriſt deſcending upon the whole church) <hi>like the dew of Hermon</hi> (the nurſe of plenty) there the Lord promiſed the bleſſing: brotherly love is the ſumme, and perfection of the law: the ballance of the ſanctuary, the <hi>ſal foederis:</hi> without it God ac<g ref="char:EOLhyphen"/>cepteth no ſervice: if this faile, religion dyeth.</p>
+            <p>
+               <hi>Abraham</hi> could finde no ſuch enforcing motive to peace, as this ſacred name <hi>of</hi>
+               <note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chry<g ref="char:EOLhyphen"/>ſost. in. <hi>Ro. 32.</hi> in <hi>Rom. Gen. 13.8. 3</hi> Marke Them.</note> 
+               <hi>brother: let there bee no contention between thee and me—for we are brethren—</hi> if the ſpirit of adoption dwell in us, let it now pre<g ref="char:EOLhyphen"/>vaile with us, <hi>I beſeech you brethren.</hi>
+            </p>
+            <p>So come we from the form, to the matter, &amp; firſt to the firſt duty <hi>marke them—we muſt diligently marke the cauſers of diviſions &amp; offence:</hi> we have need of diligent caution, theſe<note n="d" place="margin">De Arab. ſer<g ref="char:EOLhyphen"/>pent. inquit ſo<g ref="char:EOLhyphen"/>linus. <hi>144.</hi> f. morſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s anie<g ref="char:EOLhyphen"/>mers, quam delor inſequitur.</note> ſerpents kill before they are percei<g ref="char:EOLhyphen"/>ved
+<pb n="5" facs="tcp:100529:4"/>toſting: therefore you muſt<note n="e" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Oecum</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, throughly view, en<g ref="char:EOLhyphen"/>forme your ſelves,<note n="f" place="margin">Syrus, legit, caveatis abillis a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Zahar ad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onis<g ref="char:EOLhyphen"/>it, diligens fail-Viſpeculamini. Tremel. ut e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſi<g ref="char:EOLhyphen"/>deretis. Eraſm. Heb. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> à verbo <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> cuſtodivit ut <hi>Hoſ. 12.2 Sam. 11</hi> Cuſtodivit oves: unde <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Cuſtodes, qui per noctem vigi<g ref="char:EOLhyphen"/>lant. <hi>Pſal. 130.6. 1. Chron. 9 19.</hi> unde eti<g ref="char:EOLhyphen"/>em <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> cuſtodia, carcer, <hi>Gen. 40. Gen. 42.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, eſt attentè, &amp; diligenter, quaſihoſtes è ſpe<g ref="char:EOLhyphen"/>culd obſeruare. Beza. tanquam <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x ſemetipſis manifeſti non ſint, dicit obſecro— ut obſervetis<g ref="char:cmbAbbrStroke">̄</g>, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Chryſost. <hi>9.</hi> ſ. 'oſtendit aſtutiam, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Oecum. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c.</note> beware of them and reſtraine them: ſome copies have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>marke them diligently,</hi> as <hi>Saul</hi> ſaid of <hi>David,</hi> he is ſubtile and crafty, ſee therefore and know all the ſecret places where he hideth himſelfe: if we would marke well, we ſhould finde that 'tis the Devill who is the author of diſſention: and wicked men further it: therefore whether they vaile their working, under pretence of Zeale, care of reformation, or what ever other ſhew of good, <hi>marke them well who cauſe diviſions:</hi> for (as the <hi>Romans</hi> once thought of their<note n="g" place="margin">
+                  <hi>L. Florus,</hi> hist. <hi>Rom.</hi> l. z. c. <hi>3.</hi> Major aliquanto labor erat invenire, quam vincere</note> 
+               <hi>Ligurian</hi> enemies) it is ſomething more difficult to deſcry and finde them out, then to over<g ref="char:EOLhyphen"/>come them. They are of unwearied vigilancy for miſ<g ref="char:EOLhyphen"/>chiefe: proportion your care hereto. 'Twas that which<note n="h" place="margin">alluding to the name of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the theefe. <hi>Plut.</hi>
+               </note> 
+               <hi>Demoſthenes</hi> once ſeriouſly ieſted: my Lords of <hi>Athens</hi> (ſaid he) how vigilant ought we to be, ſeeing we have theeves of braſſe, and walls of clay.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> 
+               <hi>He that keepeth a treaſure, watcheth all that come neere it.</hi> Care hath an hundred eies. You whoſe charge it is this day to marke offendors, <hi>marke them diligently:</hi> becauſe 'tis Gods worke for the preſervation of ſtate and church: we want no Zeale for ſecular matters: but when God and re<g ref="char:EOLhyphen"/>ligion are intereſſed, how few <hi>marke diligently?</hi> How rare are they who preſent, adulterers, factious ſchiſmaticks, profaners of ſabboths, impious ſwearers, neglecters of Gods ſervice? when 'tis infallible, that from neglect of di<g ref="char:EOLhyphen"/>vine lawes, flow all contempts of humane. Wicked men in a ſtate, are as ill humours in the body; if they be not cor<g ref="char:EOLhyphen"/>rected, all muſt periſh. he that puniſheth not the<note n="i" place="margin">Qui de malis' poenas non ſu<g ref="char:EOLhyphen"/>munt, bonos af<g ref="char:EOLhyphen"/>fici volunt inju<g ref="char:EOLhyphen"/>riis Pytha. apud Stob. ſerm, dema<g ref="char:EOLhyphen"/>giſtrat.</note> wicked, cannot preſerve the good: now becauſe 'tis not one<note n="k" place="margin">Scipio minor dicebat non poſ<g ref="char:EOLhyphen"/>ſum ſunulet ac<g ref="char:EOLhyphen"/>cuſator eſſe &amp; judex, <hi>Plut.</hi>
+               </note> office
+<pb n="6" facs="tcp:100529:5"/>to accuſe and judge, <hi>marke them</hi> with your enditements: and be not partiall nor indulgent to ſinne. He that con<g ref="char:EOLhyphen"/>ceales anothers faults, makes them his owne. If you de<g ref="char:EOLhyphen"/>ceive the truſt impoſed on you: if you violate your oath to God, to you muſt appertaine that which <hi>Mordecai</hi> once<note n="l" place="margin">Eſter 4.14.</note> ſaid in a like dangerous time, <hi>if thou bold thy peace at this time, comfort and deliverance ſhall appeare—out of another place, but thou, and thy fathers houſe ſhall periſh, and who know<g ref="char:EOLhyphen"/>eth whether</hi> thou art come to this office, <hi>for ſuch a time?</hi> ther<g ref="char:EOLhyphen"/>fore marke them, and <hi>avoyd them.</hi>
+            </p>
+            <p>This is the ſecond branch of the duty: <hi>authors of diviſions, and offences — muſt bee avoyded,</hi>
+               <note place="margin">
+                  <hi>4</hi> avoyd them</note> receive him not to houſe, <hi>neither bidhim good ſpeed,</hi> 2 Ioh. 10. He faith not, raiſe tumults: to ſuppreſſe them, tis<note n="m" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. in Rom. Hom. <hi>32.</hi>
+               </note> enough to avoyd them, meddle not with<note n="n" place="margin">Prov. 24.21.</note> them that are ſeditious: <hi>reiect him that is an hereticke, after once, or twice admonition,</hi> Tit. 3.10. <hi>be not companions with them,</hi> Epheſ. 5.7.<note n="o" place="margin">Pſal. 18.26.</note> 
+               <hi>with the froward, thou wilt learne frowardneſſe.</hi> Men are, as the A ſtronomers ſay of the ſtarre <hi>Mercury,</hi> good, or malignant according to their con<g ref="char:EOLhyphen"/>junction with others. <hi>Peter</hi> among the Apoſtles would lay downe his life for Chriſt, but among the conſpirators <hi>in Au<g ref="char:EOLhyphen"/>nas Hall,</hi>
+               <note n="p" place="margin">Ioh. 18.25.</note> he denyed him. How many millions go for com<g ref="char:EOLhyphen"/>pany in <hi>Caravans</hi> to hell?<note n="q" place="margin">P. Martir in Rom.</note> Some underſtand this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of excommunication: but it is indeed as that reed put into <hi>Iohns</hi> hand, <hi>Revel.</hi> 11.1. to meaſure within the temple, all that is within the verge of the Church. Seeing then ſchiſma<g ref="char:EOLhyphen"/>ticks, and authors of tumults, are as the lepers in <hi>Iſrael,</hi> as infected beaſts in the flock, it ſoundeth to all Iudges an <hi>amovets, as Saul,</hi> 1 Sam. 28.3. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> put away the ſorcerers and ſouthſayers out of the land, ſo in the 2 <hi>Chron.</hi> 36.3. <hi>Pha<g ref="char:EOLhyphen"/>raoh Necho removed Iehoahaz,</hi> which 2 <hi>Kings.</hi> 23.33. is, he im<g ref="char:EOLhyphen"/>priſoned him at <hi>Ribrlath,</hi> thus iudges muſt decline the au<g ref="char:EOLhyphen"/>thors of diſſentions. To private men who have no power of iudicature it ſaith, <hi>avoydill company,</hi> the Syriac interpreter gives it, <hi>longe</hi>
+               <note n="s" place="margin">à Verb. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> longè remoium eſſe ſic <hi>1 Tim. 6.3.5. Math. 7.13.</hi>
+               </note> 
+               <hi>diſcedatis ab eis,</hi> good reaſon, <hi>ne mala vicini pe<g ref="char:EOLhyphen"/>coris</hi>
+               <note n="r" place="margin">Hebr. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſuru. recedite a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> receſſit, in Hithpael. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> removit abſtulit <hi>Geneſ. 8.13. 1 Sam. 28.3.9.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ab<g ref="char:EOLhyphen"/>cidit. Pythones. Montan. exci<g ref="char:EOLhyphen"/>dit. Iun. ejecerat. Vatablus. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>70.</hi> exterminavit, perd<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dit- <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Targum abſtule<g ref="char:EOLhyphen"/>rat.</note>
+               <pb n="7" facs="tcp:100529:5"/>
+               <hi>contagia laedant:</hi> tis a deſperate contagion, there's no ſe<g ref="char:EOLhyphen"/>curity but in quick flight, &amp; long diſtance from it: ill compa<g ref="char:EOLhyphen"/>ny bane of hopefull youth, corrupter of innocency, ſinnes broker, vices pander, vertues underminer, nurſe of impu<g ref="char:EOLhyphen"/>dence, modeſties betrayer, gulfe of many honorable pa<g ref="char:EOLhyphen"/>trimonies, uncleane ſincke of ſinne, <hi>I beſeech you marke and avoyd all ſuch:</hi> with how real a bleſſing ſhould I diſmiſſe this co<g ref="char:cmbAbbrStroke">̄</g>gregation, if this one particle were fixed in the heart and affection of every preſent auditòr? how happy a church and ſtate ſhould we preſently ſee, if the innocent would with<g ref="char:EOLhyphen"/>draw themſelves from the company of corrupting <hi>Corahs.</hi> Satan could never prevaile, did he not plow with our heifer, &amp; make men decoyes to betray men. What is that which precipitates young prodigals to famin, nakedneſſe, and ſo many illegall and impious wayes, to releive themſelves therein? what filleth your priſons, and brings ſo many good mens children to ſhame, and untimely ends, but ill company? Indeed God made man a ſociable creature, and ſaid, tis not good for man to be alone, there's no good without communion, <hi>ego ne in coelo ſolus:</hi> the moſt bleſſed being is in a ſacred ſociety: but whereas God hath ſet by thee ſo many good men, in whoſe ſociety thou mightſt be happy, how wilfully doſt thou periſh, whom none but wicked company can pleaſe?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> 
+               <hi>My</hi>
+               <note n="t" place="margin">Prov. 1.10. &amp;c.</note> 
+               <hi>Son, if ſinners intice thee, conſent thou not, avoid them: if they ſay, come we will lay waite for blond, fill our houſes with ſpoyle—caſt in thy lot among us; my ſonne walke not thou in the way with them, refraine</hi> thy foot from their path, if the harlot tell thee of peace<note n="u" place="margin">Prov. 7.15.</note> 
+               <hi>offerings, let not thy heart decline to her wayes; avoyd them which cauſe diviſions, and offences.</hi>
+            </p>
+            <p>Wee are next to conſider the delinquents,<note place="margin">
+                  <hi>5</hi> Who cauſe.</note> concerning whom this vehement caution is uſed, <hi>thoſe who cauſe diviſi<g ref="char:EOLhyphen"/>ons. They that cauſe evill are moſt pernitious:</hi> theeves, harlots, murderers, all offenders <hi>are worthy to be marked, nigro carbo<g ref="char:EOLhyphen"/>ne,</hi> with the charact. of iuſtice; but eſpecially they, who like
+<pb n="8" facs="tcp:100529:6"/>the<note n="w" place="margin">Ionah 4.7.</note> worme of <hi>Ionahs</hi> gourd, bite the very root of law and policy, by <hi>cauſing diviſions and offences:</hi> theſe two like<note n="x" place="margin">Gen. 34.25.</note> 
+               <hi>Si<g ref="char:EOLhyphen"/>meon</hi> and <hi>Levi</hi> come upon the republique, and deſtroy all maſculine vertue of religion, and policy, by<note n="y" place="margin">diſcurrendo de domo in domum adulantes qui<g ref="char:EOLhyphen"/>buſdam—aliisvero detrabe<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tes, &amp; concitan<g ref="char:EOLhyphen"/>tes unum adver<g ref="char:EOLhyphen"/>ſus alterum per detractiones. Re<g ref="char:EOLhyphen"/>mig. (ſiſit eius) in Rom.</note> running from houſe to houſe, flattering ſome, calumniating others, ſo fo<g ref="char:EOLhyphen"/>menting contentions: theſe <hi>Sallamanders</hi> live in the fire of ſtrife, which they induſtriouſly kindle: theſe are the <hi>peſtes eccleſiarum,</hi> incendiaries of ſtate: Hells maſter workemen, who make <hi>Bethel</hi> (the houſe of God)<note n="z" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Cant. 2.17.</note> 
+               <hi>a Bether, montem di<g ref="char:EOLhyphen"/>viſionis.</hi> In fault are they, who being ſeduced, become an acceſſion to a tumultuous, ſeperating or offending par<g ref="char:EOLhyphen"/>ty: but they are worſt who cauſe the miſchiefe: in every offence, worſt is he who cauſeth others to be bad. To make the people naked as <hi>Aaron</hi> did, is a great ſinne: but a greater ſinne was <hi>Balaams,</hi> who taught them to caſt ſtumb<g ref="char:EOLhyphen"/>ling blockes, to make <hi>Iſrael</hi> fall. To cauſe others to ſinne, is to be a Devill, or his factor: the moſt fearefull inſtance of Gods juſtice is he, who cauſing others to ſinne becom<g ref="char:EOLhyphen"/>meth impardonable.</p>
+            <p>It hath ever beene a great wiſdome in greateſt inte<g ref="char:EOLhyphen"/>reſts, to meete miſchiefs with timely preventions, by re<g ref="char:EOLhyphen"/>moving their cauſes: therefore the prudent heathen made ſundry lawes of prevention. Such was that of <hi>Lentulus,</hi> to puniſh a matron <hi>paenâ ſtupri</hi> who was ſeene in publike without her<note n="a" place="margin">Sine stolâ. Ter<g ref="char:EOLhyphen"/>tul. Apol. c. 6.</note> vaile: 'twas to prevent whoredome. Such was the <hi>Calparnian</hi> law, and the <hi>Oſtraciſme</hi> to prevent ambi<g ref="char:EOLhyphen"/>tion, and oppreſſion: ſuch their Licinian law, to prevent intemperance in dyet. Such was <hi>Piſo's</hi> law<note n="b" place="margin">quas à provin<g ref="char:EOLhyphen"/>cialibus quiſpiam nequiter extor<g ref="char:EOLhyphen"/>fit. Alex. ab A<g ref="char:EOLhyphen"/>lexand. <hi>l. 4.175.6.</hi> a.m.</note> 
+               <hi>de pecuniis repe<g ref="char:EOLhyphen"/>tundis,</hi> to prevent extortion, oppreſſion, and ſeditions, thence ariſing. Such their <hi>Cenſorian</hi> law, puniſhing him that neglected to prune his vines, or take the beſt ſeaſon to ſow, ſpendthrifts, prodigalls, and company-keepers, by ſequeſtring the wife, and childrens part, to prevent the many miſchiefes flowing into the ſtate, through the ruine of private families.</p>
+            <pb n="13" facs="tcp:100529:6"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> If thou wilt truely ſerve the State, have a ſpe<g ref="char:EOLhyphen"/>ciall eye to them who cauſe offences; abetters, barraters, authors of Libels, and ſeditious Pam<g ref="char:EOLhyphen"/>phlets, cauſers of quarrels, men of unclean tongus, and provoking language, corrupters of youth, re<g ref="char:EOLhyphen"/>ceivers of ſtolne goods, lewd houſes, enticing har<g ref="char:EOLhyphen"/>lots, drunkards, forcing or alluring others to ex<g ref="char:EOLhyphen"/>ceſſe; and thoſe Seminaries of innumerable evils, unneceſſary and ill ordered Victualling-houſes, maintained by the ſinnes of ill husbands, and mi<g ref="char:EOLhyphen"/>ſery of famiſhed wives and children: The man that<note n="c" place="margin">Prov. 6.16.</note> raiſeth contentions among brethren, God abhorreth; the man that perſwaded to ſerve o<g ref="char:EOLhyphen"/>ther gods, was to be ſtoned without pitty; ſinne is moſt venemous in the root: I beſeech you marke them principally which any wayes cauſe it in o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>Here are the faults to be marked: 1. diſſention,<note place="margin">
+                  <hi>6.</hi> Diviſi<g ref="char:EOLhyphen"/>ons.</note> which is, (as<note n="d" place="margin">Sueton. vit. Iul. Caeſ.</note> 
+               <hi>Sulla</hi> ſaid) many <hi>Marii</hi> in one <hi>Cae<g ref="char:EOLhyphen"/>ſar,</hi> all offences in one. Diſſention is a fault againſt God, the God of peace: Religion the Doctrine of peace, and community, and the publike weale; for diviſion importeth plurality of united parts, di<g ref="char:EOLhyphen"/>viſion pernicious to thoſe parts whoſe life and ſafety is in unity: Unity the<note n="e" place="margin">unitas enim coërcet omnia, &amp; regit. Am<g ref="char:EOLhyphen"/>broſ. in Pſalm. <hi>118.</hi> prolog.</note> 
+               <hi>Salſedo combinans</hi> of the body politick, the ſacred bond of peace; the nerves of State, the ſtate of the bleſſed; but<note n="f" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſ. q<hi rend="sup">o</hi>. ſ. Iuſidiarum magiſtrum, vocat. Theodoret. ib.</note> di<g ref="char:EOLhyphen"/>viſion is the ſubverſion of Church, and State: no kingdome<note n="g" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Naziam. orat. <hi>34.540.</hi> D.</note> divided, no not Satans (the grand maſter of diviſions) can ſtand: Diſſenſions are
+<pb n="14" facs="tcp:100529:7"/>the States <hi>Paralyſis, pollicies diſſenterie,</hi> bellows of devouring ſedition; therefore marke them that cauſe diviſions. 1. Betweene God and man:<note n="h" place="margin">Peccata enim ſola ſeparant inter beminem, &amp; Deum, Au<g ref="char:EOLhyphen"/>guſt. de pec. mer c. <hi>20.</hi>
+               </note> all ſinnes are within this latitude; for theſe, cometh the anger of God upon the children of diſobedi<g ref="char:EOLhyphen"/>ence; for theſe the Lord hath a controverſie with the land; for theſe he forſaketh a people, and coun<g ref="char:EOLhyphen"/>ſell periſheth from the ancient; valour from the ſtrong, and equity from the Iudge; <hi>retró que fe<g ref="char:EOLhyphen"/>runtur res Danaum,</hi> ſuch was Iſraels caſe in their. Apoſtacie, whither ſoever they went out, the hand of the Lord was ſore againſt them.</p>
+            <p n="2">2. Betweene Gods vicegerents and his peo<g ref="char:EOLhyphen"/>ple; miſcheivous practicers, whiſpering jealou<g ref="char:EOLhyphen"/>ſies into the facred eares of Princes, to<note n="i" place="margin">Qui à popu<g ref="char:EOLhyphen"/>lo, &amp; amicis, Principem ſub<g ref="char:EOLhyphen"/>movent, qui internuacii ſunt aliud qua<g ref="char:cmbAbbrStroke">̄</g> reſpondetur referentes, claudentes Principem ſuu<g ref="char:cmbAbbrStroke">̄</g>, &amp; agentes an<g ref="char:EOLhyphen"/>te omnia ne quid ſciat. Æ<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us. Lampr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. Alex. ſever.</note> alienate their affections from the people, to divide the head from the body: (whereas the ſtrength and ſecureſt treaſuries of Princes, are their Subjects loves) and ſcattering doubtfull ſpeeches, and ſe<g ref="char:EOLhyphen"/>ditious murmurings among the people, to make them jealous of good Princes; as the tumultuous ſounds from the earths vaſt hollowes, are preſa<g ref="char:EOLhyphen"/>ges of enſuing earth-quakes, and dreadful <hi>Chaſma's;</hi> ſuch are theſe <hi>Chorahs</hi> murmurings.</p>
+            <p n="3">3. Betweene the Prophets and the people, who under pretence of decrying the ambition, corrup<g ref="char:EOLhyphen"/>tion, and State-medling of ſome, ſhew their ha<g ref="char:EOLhyphen"/>tred to all the Miniſters of Chriſt, flying on them with their<note n="k" place="margin">Num. 16.3.</note> 
+               <hi>fat ſupérque vobis,</hi> you take too much upon you ſeeing all the Congregation is holy. I might ſay the<note n="l" place="margin">Conſtantinus, in Synodo Ni<g ref="char:EOLhyphen"/>caen libellos ac<g ref="char:EOLhyphen"/>cipiens quaere<g ref="char:EOLhyphen"/>larum plenos quos ei depri<g ref="char:EOLhyphen"/>vatis injuriis obtulerant E<g ref="char:EOLhyphen"/>piſcopi, cos ne legendos quidé ſibi eſſe puta<g ref="char:EOLhyphen"/>vit, ſed conti<g ref="char:EOLhyphen"/>nuò ſtammis tradidit. Ruf<g ref="char:EOLhyphen"/>fin. l. <hi>1.</hi> c. <hi>2.</hi> So<g ref="char:EOLhyphen"/>crat. l. <hi>1.</hi> c. <hi>5.</hi> Ser. l. <hi>1.</hi> c. <hi>16.</hi> Greg epr. l. <hi>4.75.</hi> Quicitan<g ref="char:EOLhyphen"/>tur. Hiſt. Con<g ref="char:EOLhyphen"/>cil. Nicaen. Bin. To. <hi>1.</hi> p. <hi>321.</hi> &amp;c. <hi>4.322.</hi> I. vid. <hi>Rev. 8.10.11.</hi>
+               </note> contempt of the Miniſtry is the window open to Haereſie, Satans principall advan<g ref="char:EOLhyphen"/>tage,
+<pb n="15" facs="tcp:100529:7"/>to ſuggeſt ill opinions of good miniſters, ſee<g ref="char:EOLhyphen"/>ing contempt of their perſons wil like a Gangren quickly creep on to the contempt of their Doct<g ref="char:EOLhyphen"/>rine; but I muſt tell you, that another danger is, that the ſacred band of Religion once caſt off, they who deſpiſe <hi>Aaron,</hi> will eaſily rebell againſt <hi>Moſes</hi> alſo.</p>
+            <p n="4">4. Between neighbours, either embarking Prin<g ref="char:EOLhyphen"/>ces and kingdomes in bloody quarrels; or by in<g ref="char:EOLhyphen"/>novation in<note n="m" place="margin">Reliquerunt Apoſtolum; ſe<g ref="char:EOLhyphen"/>quuntur Ari<g ref="char:EOLhyphen"/>ſtotclem, reli<g ref="char:EOLhyphen"/>querunt ſapi<g ref="char:EOLhyphen"/>entiam quae a<g ref="char:EOLhyphen"/>pud Deuta eſt, elegerunt diſ<g ref="char:EOLhyphen"/>putationes, ten<g ref="char:EOLhyphen"/>diculas, &amp; au<g ref="char:EOLhyphen"/>cupia verborii, Ambroſe in Pſ. <hi>118.</hi> Ser. <hi>22.2.</hi>
+               </note> Doctrine, or Ceremonies breeding Schiſmes and tumultuous factions, filling their holy Mother the Church (like that Graecian ſtra<g ref="char:EOLhyphen"/>tagem) <hi>Armato milite;</hi> or by factious ſpeeches, and writings, begetting diſlike of wholſome go<g ref="char:EOLhyphen"/>vernment (this is that Starre Abſynthium, fallen into our waters, embittering the ſweet currents of our peace and unity, and almoſt turning them into blood) or by ſetting debate between neigh<g ref="char:EOLhyphen"/>bours, as talebearers, and incendiaries uſe; or like men ſick of opinions Calenture, caſting themſelvs overboard by<note n="n" place="margin">Sola igitur Catholica eccle<g ref="char:EOLhyphen"/>ſia eſt quae ve<g ref="char:EOLhyphen"/>rum cultum re<g ref="char:EOLhyphen"/>tinct; hiceſt ſons veritatis, boceſt domcili<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fidei, hoc templum Dei, quod ſi quis non in<g ref="char:EOLhyphen"/>traverit, vel à quo ſiquis exi<g ref="char:EOLhyphen"/>verit, ipſe vitae ac ſalutis a<g ref="char:EOLhyphen"/>ternae alie<g ref="char:cmbAbbrStroke">̄</g>us eſt Lact. l. <hi>4.</hi> c. ult.</note> deſperate ſeparation from the Arke of Chriſts Church.</p>
+            <p>This is the heat of impatience in thoſe who conſider not the offences in the pureſt age of the Church (wherefore elſe was this charge to marke the cauſers thereof?) and that many things were endured by the Orthodox<note n="o" place="margin">ut cauſa &amp; perſona Ziza<g ref="char:EOLhyphen"/>niorum no<g ref="char:cmbAbbrStroke">̄</g> pre<g ref="char:EOLhyphen"/>judicaret cau<g ref="char:EOLhyphen"/>ſa, &amp; perſonae tritici-Auguſt. To. <hi>7.</hi> contr. Donat. poſt. col. c. <hi>4.</hi> vid. ib. de pec. merit. c. <hi>20.</hi> de Euch. parvulis datâ. ib. To. <hi>6.</hi> contr. Fauſt. Man. ch l. <hi>20.</hi> c. <hi>21.</hi> i quit ali<g ref="char:EOLhyphen"/>ndeſt quod docemus, aliud quod ſuſtinemus, aliud quod praecipere jubemur, aliud quod emen<g ref="char:EOLhyphen"/>dare precipimur, &amp; donec emendemus tol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rare compellimur. ib. tract. <hi>10.</hi> in Job. <hi>2.</hi> quis comeditur zelo domus Dei? qui omnia que. forcè ubi videt perverſa, ſacagit emendare, cupit corrigere, non quieſoit: Sicmendare non potèſt, tolerat, gem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, non excutitur de arca<g ref="char:cmbAbbrStroke">̄</g> granu<g ref="char:cmbAbbrStroke">̄</g>, ſuſtinet paleam ut intret in horrcum, cum paleaſuerit ſeparata ſi granum es noli excuti dea<g ref="char:EOLhyphen"/>reá, neprius ab avibus colligaris, quam in borreum congregeris, &amp;c.</note> Fathers for peace fake:
+<pb n="16" facs="tcp:100529:8"/>who though they diſſented in ſome things, yet held they unity: it was that which<note n="p" place="margin">Ib. To. <hi>7.</hi> in<g ref="char:EOLhyphen"/>quit quamvis ipſi &amp; apud haereticos cog<g ref="char:EOLhyphen"/>noſcant baptiſ<g ref="char:EOLhyphen"/>mum Chriſti; illi aute<g ref="char:cmbAbbrStroke">̄</g> aliter viſum ſit ut per eum, minus aliquid viden<g ref="char:EOLhyphen"/>tem, &amp; in uni<g ref="char:EOLhyphen"/>tate firmiſſime permanemtem, manifeſtius de<g ref="char:EOLhyphen"/>monſtraretur hoereticis, q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i ſacrilego ſcele<g ref="char:EOLhyphen"/>re rumperetur vinculuni pacis &amp;c. de bapt. contra. Donat. l. <hi>6.</hi> c. <hi>2.</hi>
+               </note> 
+               <hi>Auguſtine</hi> ſaid for excuſe of <hi>Cyprian</hi> holding rebaptizing, and it was reverend <hi>Beza's</hi> opinion, that the peace of our Church was not to be troubled for our Ceremo<g ref="char:EOLhyphen"/>nies; diviſions are deſperate; the leprous parts may live, the divided cannot; the Paſchal Lamb was eaten in one houſe: Chriſt is no where com<g ref="char:EOLhyphen"/>municable but in his Church; <hi>Rahabs</hi> houſe was a type thereof, whoſoever goeth out of it his blood ſhall be upon his head, <hi>Ioſh.</hi> 2.19. add here<g ref="char:EOLhyphen"/>to, diſcord is the beginning of all evill; Lawes are ſilent among Armes: diviſions in multitudes are ſtormes upon great waters, which miſcheivous breaths, exagitate into rage: diviſion in a State is as the bilging of a Shipp, breaches in the wall, wounds in the body; it is Satans Maſter-peece, who taught the Maxime, <hi>Divide, &amp; impera:</hi> how eaſily ſhall wee be overcome, if wee be divi<g ref="char:EOLhyphen"/>ded among our ſelves? Concord is the nurſe of plenty, the wealth of the poore, and ſecurity of the rich, the ſtrength of Kings, and bleſſing of the people: When the dry bones in<note n="q" place="margin">Ezek. 37.1.2, 3.</note> 
+               <hi>Ezekiels</hi> Viſi<g ref="char:EOLhyphen"/>on, lay ſcattered in the fields, there was no life, but when they were united, then they received breath. Warres and diſſenſions may ſeeme ſweet to the ignorant; but O happy peace! did men but know thy value, what would they not give, what not ſuffer for thee? Thou buildeſt Cities, makeſt wholeſome Lawes, planteſt Vineyards, ſoweſt the fruitfull Vallies, ſtock<g ref="char:EOLhyphen"/>eſt the pleaſant <hi>Gileads</hi> with numberleſſe heards;
+<pb n="17" facs="tcp:100529:8"/>thou makeſt millions into one, and therefore one ſtrong as millions; I beſeech you there<g ref="char:EOLhyphen"/>fore, marke them who cauſe Diviſions, and Offences.</p>
+            <p>Peace was the tenour of the Angells ſong, <hi>Luke</hi> 2.14. and the great<note n="r" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Nazianz. Orat. <hi>14.</hi>
+               </note> legacy which Chriſt at his departure bequeathed his Diſciples, <hi>Iohn</hi> 11.27.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Rocks of offence, 1 <hi>Pet.</hi> 2.8. to ſtum<g ref="char:EOLhyphen"/>ble at, ſuch are all publick ſinnes;<note place="margin">
+                  <hi>7.</hi> Offenees.</note> offences given are alwayes ſinnes in the givers; but offences ta<g ref="char:EOLhyphen"/>ken are not ſo, except in the receivers; theſe eaſi<g ref="char:EOLhyphen"/>ly flow in where<note n="ſ" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Oscumen.</note> diviſions give them way: <hi>O<g ref="char:EOLhyphen"/>rigen</hi> takes both for diſſentions, contrary to peace: by ſchiſmes the ſeameleſſe coate of Chriſt, and unity of the Church is rent; by offences God is diſhonoured, and the peace of the State is diſturbed; both are againſt the doctrine which we have learned.</p>
+            <p>So come we to conſider the ſecret danger inti<g ref="char:EOLhyphen"/>mated,<note place="margin">
+                  <hi>8.</hi> Contrary to, or beſide.</note> in that theſe diviſions and offences, are neare but contrary to the doctrine. This <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> importeth both: All diviſion is not evill; come out of her my People, cryed the voyce from Heaven, <hi>Revel.</hi> 18.4. that is to bee underſtood, where the foundation is raiſed; therefore we, ſe<g ref="char:EOLhyphen"/>parated from <hi>Rome,</hi> wee muſt not<note n="t" place="margin">Qui miles &amp; peccatoribus, et paenitenti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m non agentibus illicitá comm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nicatione miſce<g ref="char:cmbAbbrStroke">̄</g>tur; nocentile contactibus polluuntur, &amp; dum jungu<g ref="char:cmbAbbrStroke">̄</g>tur in culpâ ſic ne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in paena<g ref="char:cmbAbbrStroke">̄</g> ſepa<g ref="char:EOLhyphen"/>rantur. Cyp. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>1.</hi> Ep. <hi>4.</hi>
+               </note> joyne our ſelves to <hi>Baal Peor</hi> out of the Church; nor with the ſeditious congregation of <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> within it. All diviſion is not dange<g ref="char:EOLhyphen"/>rous; if the Chaffe be gone, the Wheat is the cleaner, but evill and miſcheivous is that diviſion,
+<pb n="18" facs="tcp:100529:9"/>and thoſe offences which are (in ſhew) neare, but (in deed) contrary to true doctrine. When the points ſtand like<note n="u" place="margin">Deut. <hi>27.12.13.</hi>
+               </note> 
+               <hi>Ebal</hi> and <hi>Gerizzim,</hi> the mounts of curſing, and bleſſing; moſt perni<g ref="char:EOLhyphen"/>cious is that evill, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> which is neare the good; take heed of the woolfe in ſheepes<note n="w" place="margin">Quaenam iſtae ſunt pelles ovium niſi no<g ref="char:EOLhyphen"/>minis Chriſtia<g ref="char:EOLhyphen"/>ni extrinſecus ſuperficies? Tertul. de prae<g ref="char:EOLhyphen"/>ſcript. c. <hi>4.</hi>
+               </note> cloathing, and of that<note n="x" place="margin">Hi quibus<g ref="char:EOLhyphen"/>multa nobiſcu<g ref="char:cmbAbbrStroke">̄</g> paria ſunt fa<g ref="char:EOLhyphen"/>cile poſſunt in<g ref="char:EOLhyphen"/>noxias mentes fraudulentâ ſocietate per<g ref="char:EOLhyphen"/>cutere, dum malorum ſuo<g ref="char:EOLhyphen"/>rum virus, per bena noſtra dif<g ref="char:EOLhyphen"/>fundunt. nibil enim periculo<g ref="char:EOLhyphen"/>ſius his haereti<g ref="char:EOLhyphen"/>cis eſſe poteſis quam, quicum integrè per om<g ref="char:EOLhyphen"/>nia decurrant, uno tame<g ref="char:cmbAbbrStroke">̄</g> ver<g ref="char:EOLhyphen"/>bo, ac ſi veneni guttâ, meram illam, ac ſim<g ref="char:EOLhyphen"/>plicem ſidem dominicae, &amp; exinde apoſtolicae traditionis inficiunt; unde nobis vehementer cavendum eſt, ne ſe vel ſenſibus vel auribus noſtris hujuſmodi aliquid latenter inſinnet, quia nibil tam cogit in mortem quam ſub obtentu fidei, fidem violare, &amp;c. Ambroſe deſi<g ref="char:EOLhyphen"/>de contra Arrian ca. <hi>1.</hi>
+               </note> poyſon whereof the leaſt drop killeth; e<g ref="char:EOLhyphen"/>vill and falſhood could not hurt, did they not put on the appearance of good and true. Moſt per<g ref="char:EOLhyphen"/>nicious is that Devill which transformes himſelfe into an<note n="y" place="margin">2 Cor. 11.</note> Angell of light. The moſt dangerous enemies to the repaire of <hi>Jeruſalems</hi> ruines are they who ſay,<note n="z" place="margin">Ezra 4.2.</note> we will build with you, for we ſeek the Lord your God, as ye doe. Papiſts and pro<g ref="char:EOLhyphen"/>feſſed enemies may either be<note n="a" place="margin">Vinci illi, vel facile poſſunt, vel ſacile vitari. Ambroſe, q<hi rend="sup">o</hi>. ſup.</note> overcome, or eaſi<g ref="char:EOLhyphen"/>ly avoided; but thoſe ambuſhes and ſtratagems are dangerous, which are layd, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, be<g ref="char:EOLhyphen"/>ſides, and nigh, but contrary to the doctrine which we have received.</p>
+            <p>Some cleave to our Church, as Barnacles to the Ship-ſide, onely to foule and diſadvantage us; as the dead child to the wombe, onely to endanger us: I would I could once ſay, they went out from us, as I can, they are not of us; in the interim I ſay, beware of that evill, which cometh neare to the ſhew of good; none can ſo eaſily deceive you, as thoſe<note n="b" place="margin">Solim.</note> 
+               <hi>Hyaena's</hi> who have learned your voyce, to
+<pb n="19" facs="tcp:100529:9"/>draw you out to deſtruction; beware of the Ser<g ref="char:EOLhyphen"/>pents of the colour of the ground. When <hi>Paul</hi> had ſpoken, <hi>Acts</hi> 20.30. of greivous wolves not ſparing the flock, he addeth a more dangerous af<g ref="char:EOLhyphen"/>fliction; that of themſelves men ſhould ariſe ſpeaking perverſe things to draw diſciples after them. As <hi>Samſon</hi> ſaid to his brethren of <hi>Judah, Sweare unto mee that yee will not fall upon me your ſelves, Judg.</hi> 15, 12. I may ſay to thoſe who pro<g ref="char:EOLhyphen"/>feſſe the ſame Religion with us; <hi>I would I were ſe<g ref="char:EOLhyphen"/>cure of our friends,</hi> I feare not our profeſſed ene<g ref="char:EOLhyphen"/>mies: there ſeemeth no ſuch preſent danger, as that we may be wounded <hi>propriis ſpinis.</hi> There<g ref="char:EOLhyphen"/>fore marke them which cauſe diviſions ſeeming neare, but contrary to the doctrine of God.<note n="c" place="margin">Eſay 8.20.</note> This is our <hi>Cynoſure,</hi> our Eaſterne ſtarre to lead us to Chriſt, the touchſtone of truth, our ſheat-anchor holding us from being carryed about of every wind of doctrine; in every diſtraction wee muſt have an eye to this, as the wounded Iſraelites had to the brazen Serpent; and then let the adverſa<g ref="char:EOLhyphen"/>ry ſhake their venomous tongues at us; it is no ſchiſme to divide from error, but from truth; we have divided from their corruptions, according to, not contrary to the doctrine here mentioned; to which we willingly appeale.</p>
+            <p>The doctrine of the Old and New Teſtament is the rule of Faith and manners;<note place="margin">
+                  <hi>9.</hi> Doctrine.</note> if this were li<g ref="char:EOLhyphen"/>mited onely to Religion you would not with <hi>Gal<g ref="char:EOLhyphen"/>lio</hi> ſuperſede it as<note n="d" place="margin">Acts 18.15.</note> a queſtion of words, and names: no, no, it is no<note n="e" place="margin">Deut. <hi>32.47.</hi>
+               </note> vaine word concerning you, but it is your life; and by this word you ſhall prolong
+<pb n="20" facs="tcp:100529:10"/>your dayes in the land; the ſalvation of the peo<g ref="char:EOLhyphen"/>ple is the ſupreame Law: how happy are they where the maine care is for this Doctrine; where repaire beginneth at the houſe of God, where this is neglected there is no due<note n="f" place="margin">Quomsdo fi<g ref="char:EOLhyphen"/>dem praeſta<g ref="char:EOLhyphen"/>bunt impera<g ref="char:EOLhyphen"/>tori inviolata qui Deo ſunt perfidi? <hi>Said Conſtantine the great.</hi>
+               </note> obſequy to Prin<g ref="char:EOLhyphen"/>ces, no holy duty between Children and Parents, no ſanctimony and equity between man and man; all which, and whatſoever elſe is good for the ſo<g ref="char:EOLhyphen"/>cieties of men, this doctrine commandeth in eve<g ref="char:EOLhyphen"/>ry branch, where ſtate-intereſts, humane pollicy, or ſecular cares come like thoſe<note n="g" place="margin">1 Sam. 2.16.</note> impious novi<g ref="char:EOLhyphen"/>ces to be ſerved before God, no thing proſpereth; for the anger of the Lord<note n="h" place="margin">Hag. 1.9.</note> blaſteth it; this is the<note n="i" place="margin">2 Tim. 3.16.</note> ſumme of all equity divine and humane; this prohibits every offence againſt God, or <hi>Caeſar.</hi> It will appeare if we conſider,</p>
+            <p n="1">1. That God gave not onely morall Lawes, but judiciall Statutes unto <hi>Iſrael;</hi> and (though he now cals us not, by a Trumpet from the cloud to Mount <hi>Sinai</hi>) hee doth<note n="k" place="margin">Lex eſt velut emiſſa divini<g ref="char:EOLhyphen"/>tus vox. Sence.</note> the ſame for us by good Law-makers.</p>
+            <p n="2">2. If we conſider the excellency of Law, it is nothing elſe but the dictate of reaſon, connaturall to man; an innate rule of equity, enlarged to common neceſſities by prudent ſanctions,<note n="l" place="margin">Pauſanias <hi>ſaid,</hi> Legum in viros non virorum in le<g ref="char:EOLhyphen"/>ges debet eſſe authoritas Plut. Lacon. Apoth.</note> which we all obey.</p>
+            <p n="3">3. If we conſider the neceſſity of Law; it is the<note n="m" place="margin">Lex eſt, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Demoſth.</note> foundation of Republiks: the <hi>ſacrum</hi>
+               <note n="n" place="margin">Lex eſt vinculum civitatis, libertatis fundamen<g ref="char:EOLhyphen"/>tum, ſons equitatis. Cic.</note> 
+               <hi>vin<g ref="char:EOLhyphen"/>culum ſocietatis humanae</hi> (that is, no Common-wealth which hath no Law) it is Proprieties
+<pb n="21" facs="tcp:100529:10"/>ſanctuary; the oppreſſed mans releiver, preſer<g ref="char:EOLhyphen"/>ver of men; the<note n="o" place="margin">Quis ergo merctur h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s morthus, vir<g ref="char:EOLhyphen"/>tute, milit, à victorem Pop Romanum fueſſe L. Flor. l. <hi>1.</hi> c. <hi>18.</hi>
+               </note> Horſe and Charriot of <hi>Iſrael,</hi> the Vaumures of the Citie: what were wee all without Juſtice? A Ship without a rudder,<note n="p" place="margin">ut corpora noſtra ſine me<g ref="char:EOLhyphen"/>te, ſic civitas ſine lege: ſuis partibus ner<g ref="char:EOLhyphen"/>vis ſanguine &amp; membris uti non poteſt. Cael. Rhodig. lect. Anti. l. <hi>18.</hi> c. <hi>19.</hi> Civitatis ani<g ref="char:EOLhyphen"/>ma lex. Cael. Rhodig. lect. Antiq. l. <hi>18.</hi> c. <hi>19.</hi> Communis rectè vivendi regula. ib.</note> a body without a ſoule; never any State ſubſiſted without it; never any but flouriſhed in the due execution of it: the <hi>Graecian,</hi> and <hi>Roman</hi> Monar<g ref="char:EOLhyphen"/>chies are inſtances; it was not ſo much their ſword which made them ſuch great maſters of the World, as Juſtice which united them at home, without which, they muſt needs have become prey to other Nations: it is execution of Juſtice which makes faſt the barres of the Gates within, and rendreth a Nation renowned, and dreaded abroad; Juſtice filleth the veines of ſoveraigne treaſuries, whets the ſword, bends the bow, and armeth the souldier with proofe, and confi<g ref="char:EOLhyphen"/>dence of the vigilant prudence of the State; whereas if ill counſell, and neglect of juſtice at home, ſend up the cryes of the oppreſſed (like that<note n="q" place="margin">Joſh. 8.23.</note> ſmoke of <hi>Ai</hi>) their hearts fall dead. Ju<g ref="char:EOLhyphen"/>ſtice is a convoy to the ſolitary traveller, an Hoſ<g ref="char:EOLhyphen"/>pitall to the poore, a centinell to the ſleeping, a lock to the treaſury, a fence about the fields and vineyards, a gariſon to the City, a wall to our houſes; in fine, whatſoever we have, or are in things ſecular, under God we owe to Law and Juſtice, the nerves of Warre, and ſtrength of Peace;<note n="r" place="margin">Hec ſcel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a niſi aberunt contuplex mu<g ref="char:EOLhyphen"/>rus rebus ſervandis parv'ſt. Plant. Perſ.</note> without which, no armies can defend us, no fortifications ſecure us.</p>
+            <p n="4">4. If wee conſider the things which differ
+<pb n="22" facs="tcp:100529:11"/>from this Doctrine, it is not<note n="ſ" place="margin">Lege haud quaquam vide<g ref="char:EOLhyphen"/>rinu<g ref="char:cmbAbbrStroke">̄</g>cupatione, ſacrovè dignas tit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lo, quinimò decreta dici ve<g ref="char:EOLhyphen"/>rius edictavè, ac institutaiſi<g ref="char:EOLhyphen"/>quidem lex bo<g ref="char:EOLhyphen"/>na est aeterna item — a ſummo eſt bo<g ref="char:EOLhyphen"/>no ac rurſum in idem refluit coel. Rhodig. Antiq. lect. l. <hi>18.</hi> cap. <hi>19.</hi>
+               </note> Law which is not conſonant hereto; as<note n="t" place="margin">Cum iniquae cognoſcuntur, merit ò damna<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tur — Ter<g ref="char:EOLhyphen"/>tul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adv Gent. c. <hi>4.</hi>
+               </note> 
+               <hi>Platos</hi> ſtatutes for com<g ref="char:EOLhyphen"/>munity, <hi>Solons</hi> for Harlots: me thinkes when I read of ſuch impiety, under the ſacred name of Law, I ſee the Endor Devill in an holy Pro<g ref="char:EOLhyphen"/>phets mantle.<note n="u" place="margin">— Neque religio ulla ſine ſapientia ſuſ<g ref="char:EOLhyphen"/>cipienda. Lact. l. <hi>1.</hi> ib. l. <hi>4.</hi> c. <hi>2.</hi> l. <hi>4.</hi> c. <hi>3.</hi> &amp;. ib. c. <hi>4.</hi>
+               </note> Miſerable are thoſe ſtates where Religion and Law are divided: There <hi>Jeroboams</hi> pollicy, <hi>Pharaohs</hi> working wiſely, and Phariſees projection to prevent the <hi>Romans</hi> ſupplanting them, muſt prove but <hi>Achitophels</hi> infatuated counſells.</p>
+            <p n="5">5. Laſtly if we conſider, that this doctrine is the<note n="vv" place="margin">— ſciatis ipſas quoque leges veſtras, quae videntur ad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nnocentiam pergere de di<g ref="char:EOLhyphen"/>viná lege vt antiquior is ſormae mutuatas — Tertull. Apol. c. <hi>45.</hi>
+               </note> Ocean of Juſtice to every humane Law which it feeds and maintaines, and that if you fol<g ref="char:EOLhyphen"/>low any ſtreame thereof, it will lead you to the Word of God; for as wiſedome and truth is all of one God, whoſoever deriveth it to us; ſo is Juſtice his, who not onely hath it (as the crea<g ref="char:EOLhyphen"/>ture may) but is it, as no creature can be.<note n="x" place="margin">
+                  <hi>2.</hi> Cron. <hi>19.6.</hi>
+               </note> 
+               <hi>Ie<g ref="char:EOLhyphen"/>hoſaphat</hi> ſayd truly to the Judges, Yee execute not the judgement of man, but of the Lord, for vengeance is his. The Heathens had ſome ſenſe of that the Apoſtle ſaith, <hi>There is no power but of God;</hi> and that all humane Juſtice floveth from the<note n="y" place="margin">Lex non eſt tan<g ref="char:EOLhyphen"/>tum donum DEI, ſed ipſe DEVS, qus donum dedit: quia qui Paret legi, DEO paret. Ariſt. Pol. l <hi>3.</hi> Aquin. <hi>12.</hi> q. <hi>91.</hi> a. <hi>2.</hi> dicit eſſe participa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>onem legis aeternae, increatur á rationali—</note> Divine: Therefore their Law-givers pre<g ref="char:EOLhyphen"/>tended the derivations of their Statutes from
+<pb n="23" facs="tcp:100529:11"/>ſome ſuppoſed Deity: As <hi>Zoroaſter</hi> from <hi>Oro<g ref="char:EOLhyphen"/>naſis,</hi>
+               <note n="z" place="margin">— Lycur<g ref="char:EOLhyphen"/>gus Lacedaeme<g ref="char:EOLhyphen"/>niis leges ex Apollinis auto<g ref="char:EOLhyphen"/>ritate ſe inſti<g ref="char:EOLhyphen"/>tuiſſe confinx<g ref="char:EOLhyphen"/>erit, &amp;c. Auguſt. de. Civ. DEI. l. <hi>2.</hi> c. <hi>16.</hi> Strato. l. <hi>10.</hi> eid. Ariſt. pol. l. <hi>2.</hi> Coel. Antiq. lect. l. <hi>18.</hi> c. <hi>10.</hi>
+               </note> 
+               <hi>Lycurgus</hi> from <hi>Apollo, Minos</hi> from <hi>Ju<g ref="char:EOLhyphen"/>piter, Triſmegistus</hi> from <hi>Mercurie, Draco</hi> and <hi>So<g ref="char:EOLhyphen"/>lon</hi> from <hi>Minerva, Plato</hi> from <hi>Jupiter</hi> and <hi>A<g ref="char:EOLhyphen"/>pollo.</hi>
+            </p>
+            <p n="1">1. It muſt touch all mens hearts with a re<g ref="char:EOLhyphen"/>verend eſteeme of the Lawes (<note n="a" place="margin">Legumidcirco omnes ſervi ſumus, vt li<g ref="char:EOLhyphen"/>beri eſſe poſsi<g ref="char:EOLhyphen"/>mus. Coel. Rhod. q<hi rend="sup">o</hi> ſ.</note> which we ſerve that we may be free) and the miniſters thereof, not onely for feare, but alſo for conſcience ſake; their contempt is the diſtemper and ruine of the State.</p>
+            <p n="2">2. It muſt ſay to the reverend Judges (as <hi>Ie<g ref="char:EOLhyphen"/>hoſaphat</hi> once did, 2 <hi>Chron.</hi> 19.6.) Take heed to your ſelves, for the Lord will be with you in the cauſe and in the judgement.</p>
+            <p n="3">3. It muſt ſay to all that heare this Doctrine, lay it up in obedient hearts; it is as the dew di<g ref="char:EOLhyphen"/>ſtilling from Heaven, <hi>Deut.</hi> 32.1. let it not be entertained as the ſweet ſhowers falling into the Sea, turning all to bitterneſſe, as it muſt doe to them whom it cannot convert: Be not like the<note n="b" place="margin">Fauces maris Caſpii vacu<g ref="char:EOLhyphen"/>antur imbri<g ref="char:EOLhyphen"/>bus, creſcunt eſtibus. Solim.</note> Caſpian Sea, emptied with raine, and filled with heat, as ſome who learne, that they may with falſe zeale ſeeme to raile, and caſt durt into our mothers face; this is contrary to peace, and the Doctrine which we have learned.</p>
+            <p>Our own example aggravates the crime of di<g ref="char:EOLhyphen"/>viſion and offences,<note place="margin">Which wee have learned.</note> we have learned that from the ſupreame Law-giver; we own obedience on paine of eternall death. Miſerable is that State where every man makes his owne Religion and Law; a Tyranny is better then an Anarchie, where
+<pb n="24" facs="tcp:100529:12"/>every thing is lawfull, there is nothing law full; therefore I conclude, that All miſeries and diſ<g ref="char:EOLhyphen"/>orders flow into Church and State through theſe breaches of inconſtancy to the wholeſome Do<g ref="char:EOLhyphen"/>ctrine and good Lawes received: Mutations in Policy or<note n="c" place="margin">Nobis verò nibil ex noſtro axbitrio indu<g ref="char:EOLhyphen"/>cere licet, ſed nec eligere qd. aliquis de ar<g ref="char:EOLhyphen"/>bitrio ſuo in<g ref="char:EOLhyphen"/>duxerit. Apo<g ref="char:EOLhyphen"/>ſtolos Domini habemus au<g ref="char:EOLhyphen"/>ctores, qui nec ipſi quicquam ex ſuo arbitrio quod induce<g ref="char:EOLhyphen"/>rent eligerunt ſed acceptam à Chriſts diſci<g ref="char:EOLhyphen"/>pli<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m fideli<g ref="char:EOLhyphen"/>ter nation bus ad ſignave<g ref="char:EOLhyphen"/>vunt Tertul. adverſhaer. c. <hi>6.</hi>
+               </note> Religion are dangerous; recruding of wounds will gangren the ſound parts. I will ſhut up all with an addreſſe.</p>
+            <p n="1">1. To you, honoured Lords:<note n="d" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Sy<g ref="char:EOLhyphen"/>noſs. Ep. <hi>31.</hi>
+               </note> ſoules of Ci<g ref="char:EOLhyphen"/>ties, who give Lawes life, by executing them; wherein can I more opportunely implore your helpe, then in the preſent danger? Of all offen<g ref="char:EOLhyphen"/>dours, <hi>I beſeech you marke them who cauſe diviſions;</hi> that the wrath of God may bee diverted from this land: this Kingdome never ſuffered ſo much as in Diviſions, and inteſtine quarrels: none but for offences ſuffer. I need not ſay, it is eaſier to extinguiſh ſparks, then enraged flames; nor that we are come to our <hi>Maſſa</hi> and <hi>Merita,</hi> and that if the leake of ſeparation which hath begun to fill us with the waters of ſtrife, be a little longer neglected, we are in danger of foundering: I be<g ref="char:EOLhyphen"/>ſeech you therefore heale the fountaines by the ſalt of Juſtice, and caſt in the branch into the <hi>Marahs</hi> which now embitter us; you beſt know how to let in floods of ſeverity, as<note n="e" place="margin">Solim.</note> 
+               <hi>Caius Marius</hi> did the Sea, whereby, <hi>Pernicioſam ferventis Ro<g ref="char:EOLhyphen"/>dani navigationem temperavit;</hi> theſe variable lan<g ref="char:EOLhyphen"/>guages, wherein we cannot underſtand each other, or for impatience will not; this ſtrife of tongues following the crying ſinnes of this land, doe not ſo much portend ſome enſuing, as point out a preſent confuſion.</p>
+            <pb n="25" facs="tcp:100529:12"/>
+            <p n="2">2. To you, faithfull Jurours, this day to make inqueſt; my text ſaith, as<note n="f" place="margin">Jud. 4.22.</note> 
+               <hi>Joel. Come and I will ſhew you the men yee ſeeke. Marke them who cauſe Diviſions.</hi>
+            </p>
+            <p n="3">3. To my brethren of the Miniſtry, I need not ſay, <hi>Mark them</hi> (you know them to your griefe) I ſay, If yee be Prophets of the Lord, intreat the Lord of Hoſts, that the reſt of the veſſels,<note n="g" place="margin">Jer. 27.18.</note> which are left in the Houſe of the Lord, goe not to <hi>Babel.</hi>
+            </p>
+            <p n="4">4. To the jeering <hi>Chams</hi> (whoſe paſtime is their Parents opprobrie) pretending ſeparation from ſinners, but indeed with greater ſinnes, be<g ref="char:EOLhyphen"/>cauſe with much greater pride and hypocriſie: I would ſay, if they would heare, Chriſt taught none of his to ſeparate from the well knowne<note n="h" place="margin">Ipſe trad tor Chriſti de A<g ref="char:EOLhyphen"/>poſtolis fuit. Te<g ref="char:cmbAbbrStroke">̄</g>rtul. de pre<g ref="char:EOLhyphen"/>ſer. c, <hi>3.</hi> fine.</note> 
+               <hi>Judas;</hi> Who taught you Diviſion? if affection have left any place for reaſon, conſider the ad<g ref="char:EOLhyphen"/>vantage you give the common enemie; diviſion weakneth us, and ſtrengthneth them, <hi>Hoc Ithacus velit, &amp; magno mercentur Atridae.</hi> They can ne<g ref="char:EOLhyphen"/>ver overcome us <hi>unanimous,</hi> let them not ſingle us out, to our owne deſtructions.</p>
+            <p n="5">5. To all that heare me, <hi>I beſeech you brethren avoid them;</hi> whether Innovators, or Separatiſts, the two ſmoaking firebrands, the <hi>Scylla</hi> and <hi>Cha<g ref="char:EOLhyphen"/>ribdis,</hi> the gulfes and <hi>Chaſmas</hi> of our Church and State. (of whom I thinke as <hi>Cicero,</hi> of the factious <hi>Caeſar</hi> and <hi>Pompey, Quem fugiam ſcio, quem ſequar neſcio</hi>) avoyde both extreames: hold faſt the wholeſome Doctrine, which yee have learned; and the God of peace and unity ſay, <hi>Amen,</hi> and
+<pb n="26" facs="tcp:100529:13"/>ſtirre up ſome ſonnes of peace to ſound the re<g ref="char:EOLhyphen"/>treat; that it may not be bitterneſſe in the end: and let the contending parties ſay, <hi>Amen;</hi> and and patiently heare each other, as men who ſtriv<g ref="char:EOLhyphen"/>ed for truth rather then for victory;<note n="i" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. G. Nazianz. orat <hi>14.</hi>
+               </note> bearing (as much as the cauſe will permit) with the in firme: underſtanding our common intereſt, that we may againe ſee the face of the Primitive Church, wherein all were of one mind, and one ſoule; and let all that love the peace of God, unity of the Church, and proſperity of the State, ſay <hi>Amen:</hi> and the good God make my bleſſing ſtronger then the bleſſing of my elders, that peace and truth may be in our dayes, that we may appeare with comfort, before the tribunall of Jeſus Chriſt; O Lord bow downe thine eare and heare us, O Lord conſider and doe it, &amp;c.</p>
+            <closer>AMEN.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
